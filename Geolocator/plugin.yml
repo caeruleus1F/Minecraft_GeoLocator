@@ -1,0 +1,6 @@
+name: MCGeo
+main: com.gbates31.minecraft_geolocator.Main
+version: 0.1
+
+commands:
+  mcg:
